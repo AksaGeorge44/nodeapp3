@@ -22,7 +22,7 @@ app.get('/viewall',async (req,res)=>{
 })
 
 app.get('/',(req,res)=>{
-    res.send("hello world")
+    res.send("hello everbody")
 })
 
 app.post('/read',(req,res)=>{
